@@ -2,30 +2,30 @@
 
 There is a folder with resources that fall under each category
 
-#Practice
+# Practice
 * Reverse Engineering
   * [Practice RE Bomb lab](http://csapp.cs.cmu.edu/2e/README-bomblab)
 
-#Web
+# Web
 * [Clickjacking](https://blog.innerht.ml/google-yolo/)
 * [PHP Magic Hash](https://www.whitehatsec.com/blog/magic-hashes/)
 * [Bug Bounty Guide](https://bugbountyguide.com/)
 * [Server Side Request Forgery (SSRF) RCE Tool](https://github.com/tarunkant/Gopherus)
 * [Hacking Around HTA Files](http://blog.sevagas.com/?Hacking-around-HTA-files)
 
-#Reverse Engineering
+# Reverse Engineering
 * [Intro to Reverse Engineering - Opensecuritytraining](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Intro to x86 - Opensecuritytraining](http://opensecuritytraining.info/IntroX86.html)
 
-#Binary Exploitation
+# Binary Exploitation
 * [AFL - Fuzzing binaries](https://github.com/mirrorer/afl)
 
 
-#Forensics
+# Forensics
 [Network Miner - Analyze PCAPS](https://www.netresec.com/?page=Networkminer)
 [Windows Log Files on Linux](https://github.com/williballenthin/python-evtx)
 
-#Pentesting
+# Pentesting
 * OSCE Review
   * https://www.abatchy.com/tag/OSCE%20Prep/
   * https://pastebin.com/RSPbatip 
@@ -37,14 +37,14 @@ There is a folder with resources that fall under each category
 
 * [Responsder in Memory](https://github.com/Kevin-Robertson/Inveigh)
 
-#Recon
+# Recon
 * [Domain Recon](https://github.com/vysec/DomLink)
 * [Domain Recon](https://github.com/michenriksen/aquatone)
 
-#Red Team
+# Red Team
 * [Phishing Infrastructure](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#easy-web-based-phishing)
 
-#General Linux / Shell customization
+# General Linux / Shell customization
 
-#Misc Hacking/Cracking
+# Misc Hacking/Cracking
 * [Voicemail Cracking](https://www.martinvigo.com/voicemailcracker/)
