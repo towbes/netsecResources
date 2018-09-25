@@ -5,6 +5,8 @@ There is a folder with resources that fall under each category
 # Practice
 * Reverse Engineering
   * [Practice RE Bomb lab](http://csapp.cs.cmu.edu/2e/README-bomblab)
+* Web
+  * [Stereotyped Challenges](https://chall.stypr.com/)
 
 # Web
 * [Clickjacking](https://blog.innerht.ml/google-yolo/)
