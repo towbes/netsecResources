@@ -39,6 +39,7 @@ There is a folder with resources that fall under each category
   * https://davidstorie.ca/using-kali-linux-ctp-osce/ https://r00k.io/2016/11/trying-harder-er/
 
 * [Responsder in Memory](https://github.com/Kevin-Robertson/Inveigh)
+* [O365 / Skype for Business Password Spray](https://github.com/mdsecresearch/LyncSniper)
 
 # Recon
 * [Domain Recon](https://github.com/vysec/DomLink)
