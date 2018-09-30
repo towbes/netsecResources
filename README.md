@@ -25,8 +25,9 @@ There is a folder with resources that fall under each category
 
 
 # Forensics
-[Network Miner - Analyze PCAPS](https://www.netresec.com/?page=Networkminer)
-[Windows Log Files on Linux](https://github.com/williballenthin/python-evtx)
+* [Network Miner - Analyze PCAPS](https://www.netresec.com/?page=Networkminer)
+* [Windows Log Files on Linux](https://github.com/williballenthin/python-evtx)
+* [Foremost - Recover deleted files from disk image](https://www.forensicswiki.org/wiki/Foremost)
 
 # Pentesting
 * OSCE Review
