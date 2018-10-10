@@ -15,6 +15,7 @@ There is a folder with resources that fall under each category
 * [Server Side Request Forgery (SSRF) RCE Tool](https://github.com/tarunkant/Gopherus)
 * [Hacking Around HTA Files](http://blog.sevagas.com/?Hacking-around-HTA-files)
 * [Javascript Beautifier](https://github.com/beautify-web/js-beautify)
+* [Convert Curl to Python](https://curl.trillworks.com/)
 
 # Reverse Engineering
 * [Intro to Reverse Engineering - Opensecuritytraining](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
