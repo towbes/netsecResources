@@ -50,6 +50,7 @@ There is a folder with resources that fall under each category
 
 # Red Team
 * [Phishing Infrastructure](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#easy-web-based-phishing)
+* [Phishing Server Setup Automation](https://github.com/n0pe-sled/Postfix-Server-Setup)
 
 # General Linux / Shell customization
 
