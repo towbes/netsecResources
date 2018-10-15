@@ -1,7 +1,5 @@
 # netsecResources
 
-There is a folder with resources that fall under each category
-
 # Practice
 * Reverse Engineering
   * [Practice RE Bomb lab](http://csapp.cs.cmu.edu/2e/README-bomblab)
@@ -42,6 +40,7 @@ There is a folder with resources that fall under each category
 
 * [Responsder in Memory](https://github.com/Kevin-Robertson/Inveigh)
 * [O365 / Skype for Business Password Spray](https://github.com/mdsecresearch/LyncSniper)
+* [Post Exploitation - Dumping DC Creds](https://www.sans.org/reading-room/whitepapers/testing/cracking-active-directory-passwords-how-cook-ad-crack-37940)
 
 # Recon
 * [Domain Recon](https://github.com/vysec/DomLink)
