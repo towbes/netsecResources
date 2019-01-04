@@ -21,6 +21,7 @@
 
 # Binary Exploitation
 * [AFL - Fuzzing binaries](https://github.com/mirrorer/afl)
+* [Heap Exploitation](https://heap-exploitation.dhavalkapil.com/)
 
 
 # Forensics
