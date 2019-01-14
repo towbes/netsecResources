@@ -42,6 +42,7 @@
 * [Responsder in Memory](https://github.com/Kevin-Robertson/Inveigh)
 * [O365 / Skype for Business Password Spray](https://github.com/mdsecresearch/LyncSniper)
 * [Post Exploitation - Dumping DC Creds](https://www.sans.org/reading-room/whitepapers/testing/cracking-active-directory-passwords-how-cook-ad-crack-37940)
+* [Using Machine Account Passwords](https://blog.secarma.co.uk/labs/using-machine-account-passwords-during-an-engagement)
 
 # Recon
 * [Domain Recon](https://github.com/vysec/DomLink)
