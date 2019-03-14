@@ -38,7 +38,8 @@
   * https://hansesecure.de/offensive-security-certified-expert-me/
   * https://tulpa-security.com/2017/07/18/288/
   * https://davidstorie.ca/using-kali-linux-ctp-osce/ https://r00k.io/2016/11/trying-harder-er/
-
+  
+* [Collection of tools for various phases of pentesting](https://github.com/shr3ddersec/Shr3dKit)
 * [Responsder in Memory](https://github.com/Kevin-Robertson/Inveigh)
 * [O365 / Skype for Business Password Spray](https://github.com/mdsecresearch/LyncSniper)
 * [Post Exploitation - Dumping DC Creds](https://www.sans.org/reading-room/whitepapers/testing/cracking-active-directory-passwords-how-cook-ad-crack-37940)
