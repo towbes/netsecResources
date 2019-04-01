@@ -14,6 +14,7 @@
 * [Hacking Around HTA Files](http://blog.sevagas.com/?Hacking-around-HTA-files)
 * [Javascript Beautifier](https://github.com/beautify-web/js-beautify)
 * [Convert Curl to Python](https://curl.trillworks.com/)
+* [Parameter Discovery Tool](https://github.com/s0md3v/Arjun)
 
 # Reverse Engineering
 * [Intro to Reverse Engineering - Opensecuritytraining](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
