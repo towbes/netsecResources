@@ -60,3 +60,4 @@
 
 # Misc Hacking/Cracking
 * [Voicemail Cracking](https://www.martinvigo.com/voicemailcracker/)
+* [Practice Parallel Processing with C#] https://deadlockempire.github.io/#menu
