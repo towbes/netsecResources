@@ -60,5 +60,5 @@
 
 # Misc Hacking/Cracking
 * [Voicemail Cracking](https://www.martinvigo.com/voicemailcracker/)
-* [Practice Parallel Processing with C#] (https://deadlockempire.github.io/#menu)
-* [Hardware hacking toolkit] (https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
+* [Practice Parallel Processing with C#](https://deadlockempire.github.io/#menu)
+* [Hardware hacking toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
