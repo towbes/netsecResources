@@ -19,6 +19,7 @@
 # Reverse Engineering
 * [Intro to Reverse Engineering - Opensecuritytraining](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Intro to x86 - Opensecuritytraining](http://opensecuritytraining.info/IntroX86.html)
+* [MalwareUnicorn ReverseEngineering Workshops](https://malwareunicorn.org/#/workshops)
 
 # Binary Exploitation
 * [AFL - Fuzzing binaries](https://github.com/mirrorer/afl)
