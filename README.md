@@ -59,6 +59,9 @@
 
 # General Linux / Shell customization
 
+# CTFs
+* [Unix PrivEsc](https://github.com/pentestmonkey/unix-privesc-check)
+
 # Misc Hacking/Cracking
 * [Voicemail Cracking](https://www.martinvigo.com/voicemailcracker/)
 * [Practice Parallel Processing with C#](https://deadlockempire.github.io/#menu)
