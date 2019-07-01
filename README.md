@@ -15,11 +15,14 @@
 * [Javascript Beautifier](https://github.com/beautify-web/js-beautify)
 * [Convert Curl to Python](https://curl.trillworks.com/)
 * [Parameter Discovery Tool](https://github.com/s0md3v/Arjun)
+* [Dakota State University Web Programming](https://0xevilc0de.com/introduction-to-web-programming/)
 
 # Reverse Engineering
 * [Intro to Reverse Engineering - Opensecuritytraining](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Intro to x86 - Opensecuritytraining](http://opensecuritytraining.info/IntroX86.html)
 * [MalwareUnicorn ReverseEngineering Workshops](https://malwareunicorn.org/#/workshops)
+* [Dakota State University Intro to x86 Assembly](https://0xevilc0de.com/introduction-to-x86-assembly/)
+* [Dakota State University C Programming](https://0xevilc0de.com/introduction-to-c-programming/)
 
 # Binary Exploitation
 * [AFL - Fuzzing binaries](https://github.com/mirrorer/afl)
