@@ -65,6 +65,7 @@
 
 # CTFs
 * [Unix PrivEsc](https://github.com/pentestmonkey/unix-privesc-check)
+* [Sudo Privesc](https://touhidshaikh.com/blog/?p=790)
 
 # Misc Hacking/Cracking
 * [Voicemail Cracking](https://www.martinvigo.com/voicemailcracker/)
