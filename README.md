@@ -73,3 +73,4 @@
 * [Hardware hacking toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 * [Computer Architecture Course](https://safari.ethz.ch/architecture/fall2018/doku.php?id=schedule)
 * [OSINT Framework](https://osintframework.com/)
+* [Windows Security Dev](https://github.com/howknows/awesome-windows-security-development/blob/master/README.md)
