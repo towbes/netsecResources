@@ -67,6 +67,9 @@
 * [Unix PrivEsc](https://github.com/pentestmonkey/unix-privesc-check)
 * [Sudo Privesc](https://touhidshaikh.com/blog/?p=790)
 
+# Mobile
+* [Using Frida to Monitor Encryption](https://www.trustedsec.com/2019/07/mobile-hacking-using-frida-to-monitor-encryption/)
+
 # Misc Hacking/Cracking
 * [Voicemail Cracking](https://www.martinvigo.com/voicemailcracker/)
 * [Practice Parallel Processing with C#](https://deadlockempire.github.io/#menu)
