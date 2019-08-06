@@ -77,3 +77,6 @@
 * [Computer Architecture Course](https://safari.ethz.ch/architecture/fall2018/doku.php?id=schedule)
 * [OSINT Framework](https://osintframework.com/)
 * [Windows Security Dev](https://github.com/howknows/awesome-windows-security-development/blob/master/README.md)
+
+# Managing teams
+* [Advice for Managing teams](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
