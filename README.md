@@ -19,6 +19,7 @@
 * [Parameter Discovery Tool](https://github.com/s0md3v/Arjun)
 * [Dakota State University Web Programming](https://0xevilc0de.com/introduction-to-web-programming/)
 * [Convert JS function to unicode](https://renwax23.github.io/X/jsES6_unicode.html)
+* [SQLmap tricks](https://vavkamil.cz/2019/10/09/understanding-the-full-potential-of-sqlmap-during-bug-bounty-hunting/)
 
 # Reverse Engineering
 * [Intro to Reverse Engineering - Opensecuritytraining](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
