@@ -76,6 +76,7 @@
 
 # Mobile
 * [Using Frida to Monitor Encryption](https://www.trustedsec.com/2019/07/mobile-hacking-using-frida-to-monitor-encryption/)
+* [Android pentest process](https://nightowl131.github.io/AAPG/)
 
 # Misc Hacking/Cracking
 * [Voicemail Cracking](https://www.martinvigo.com/voicemailcracker/)
