@@ -66,6 +66,7 @@
 # Red Team
 * [Phishing Infrastructure](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#easy-web-based-phishing)
 * [Phishing Server Setup Automation](https://github.com/n0pe-sled/Postfix-Server-Setup)
+* [Disguising unsigned binaries](https://secrary.com/Random/RedTeamTrick/)
 
 # General Linux / Shell customization
 
