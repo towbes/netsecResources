@@ -28,6 +28,7 @@
 * [Dakota State University Intro to x86 Assembly](https://0xevilc0de.com/introduction-to-x86-assembly/)
 * [Dakota State University C Programming](https://0xevilc0de.com/introduction-to-c-programming/)
 * [Stepping through PE structures](http://ropgadget.com/posts/pebwalk.html)
+* [Guided Game Reversing Tutorials](https://guidedhacking.com)
 
 # Binary Exploitation
 * [AFL - Fuzzing binaries](https://github.com/mirrorer/afl)
