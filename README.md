@@ -69,6 +69,7 @@
 * [Phishing Infrastructure](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#easy-web-based-phishing)
 * [Phishing Server Setup Automation](https://github.com/n0pe-sled/Postfix-Server-Setup)
 * [Disguising unsigned binaries](https://secrary.com/Random/RedTeamTrick/)
+* [Automated AV Detection tests for payloads using AMSI](https://medium.com/@two06/amsi-as-a-service-automating-av-evasion-2e2f54397ff9)
 
 # General Linux / Shell customization
 
