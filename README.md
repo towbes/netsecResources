@@ -58,6 +58,7 @@
 * [Using Machine Account Passwords](https://blog.secarma.co.uk/labs/using-machine-account-passwords-during-an-engagement)
 * [impacket stand-alone binaries](https://github.com/ropnop/impacket_static_binaries)
 * [Active Directory TTPs (spectre ops)](https://docs.google.com/presentation/d/1j2nW05H-iRz7-FVTRh-LBXQm6M6YIBQNWa4V7tp99YQ/edit#slide=id.g35f391192_00)
+* [Password Spraying Tools](https://github.com/byt3bl33d3r/SprayingToolkit/)
 
 # Recon
 * [Domain Recon](https://github.com/vysec/DomLink)
