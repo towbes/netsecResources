@@ -64,7 +64,8 @@
 * [Domain Recon](https://github.com/vysec/DomLink)
 * [Domain Recon](https://github.com/michenriksen/aquatone)
 * [LinkedIn User Scraping](https://github.com/clr2of8/GatherContacts)
-* [Potential Usernames(https://github.com/insidetrust/statistically-likely-usernames)
+* [Potential Usernames](https://github.com/insidetrust/statistically-likely-usernames)
+* [Gmail SMTP Server Username Enumeration](https://github.com/H3LL0WORLD/Gmail-Enum)
 
 # Red Team
 * [Phishing Infrastructure](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#easy-web-based-phishing)
