@@ -42,15 +42,7 @@
 * [Foremost - Recover deleted files from disk image](https://www.forensicswiki.org/wiki/Foremost)
 
 # Pentesting
-* OSCE Review
-  * https://www.abatchy.com/tag/OSCE%20Prep/
-  * https://pastebin.com/RSPbatip 
-  * https://0x09al.github.io/security/ctp/osce/exploitation/2017/07/06/osce-ctp-prep-heapspreay-seh-egghunter.html
-  * https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/
-  * https://hansesecure.de/offensive-security-certified-expert-me/
-  * https://tulpa-security.com/2017/07/18/288/
-  * https://davidstorie.ca/using-kali-linux-ctp-osce/ https://r00k.io/2016/11/trying-harder-er/
-  
+
 * [Collection of tools for various phases of pentesting](https://github.com/shr3ddersec/Shr3dKit)
 * [Responsder in Memory](https://github.com/Kevin-Robertson/Inveigh)
 * [O365 / Skype for Business Password Spray](https://github.com/mdsecresearch/LyncSniper)
@@ -59,6 +51,14 @@
 * [impacket stand-alone binaries](https://github.com/ropnop/impacket_static_binaries)
 * [Active Directory TTPs (spectre ops)](https://docs.google.com/presentation/d/1j2nW05H-iRz7-FVTRh-LBXQm6M6YIBQNWa4V7tp99YQ/edit#slide=id.g35f391192_00)
 * [Password Spraying Tools](https://github.com/byt3bl33d3r/SprayingToolkit/)
+* OSCE Review
+  * https://www.abatchy.com/tag/OSCE%20Prep/
+  * https://pastebin.com/RSPbatip 
+  * https://0x09al.github.io/security/ctp/osce/exploitation/2017/07/06/osce-ctp-prep-heapspreay-seh-egghunter.html
+  * https://blog.g0tmi1k.com/2013/08/cracking-perimeter-ctp-offensive/
+  * https://hansesecure.de/offensive-security-certified-expert-me/
+  * https://tulpa-security.com/2017/07/18/288/
+  * https://davidstorie.ca/using-kali-linux-ctp-osce/ https://r00k.io/2016/11/trying-harder-er/
 
 # Recon
 * [Domain Recon](https://github.com/vysec/DomLink)
@@ -72,6 +72,8 @@
 * [Phishing Server Setup Automation](https://github.com/n0pe-sled/Postfix-Server-Setup)
 * [Disguising unsigned binaries](https://secrary.com/Random/RedTeamTrick/)
 * [Automated AV Detection tests for payloads using AMSI](https://medium.com/@two06/amsi-as-a-service-automating-av-evasion-2e2f54397ff9)
+* [Living off the land](https://lolbas-project.github.io/)
+* [Red team techniques(https://ired.team/offensive-security/)
 
 # General Linux / Shell customization
 
