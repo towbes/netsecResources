@@ -73,7 +73,7 @@
 * [Disguising unsigned binaries](https://secrary.com/Random/RedTeamTrick/)
 * [Automated AV Detection tests for payloads using AMSI](https://medium.com/@two06/amsi-as-a-service-automating-av-evasion-2e2f54397ff9)
 * [Living off the land](https://lolbas-project.github.io/)
-* [Red team techniques(https://ired.team/offensive-security/)
+* [Red team techniques](https://ired.team/offensive-security/)
 
 # General Linux / Shell customization
 
